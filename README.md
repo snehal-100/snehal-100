@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @snehal-100
 - 👀 I’m interested in coding and tech
-- 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me - through my linkedin (https://www.linkedin.com/in/snehal-baranwal-53b188241/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BaB%2FLNoldQuW5zK5pdv7oEg%3D%3D)
+- 🌱 I’m currently spending my time around springboot and java
+- 💞️ I’m looking to collaborate on fullstack projects
+- 📫 How to reach me - through my linkedin (https://www.linkedin.com/in/snehal-baranwal)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
